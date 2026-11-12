@@ -25,12 +25,3 @@ public class Exerc3 {
         }
     }
 }
-
-
-
-
-
-
-
-
-
