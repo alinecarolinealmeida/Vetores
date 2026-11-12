@@ -6,7 +6,7 @@ public class Exerc3 {
 
         Scanner input = new Scanner(System.in);
 
-        int valores[] = new int[3];
+        int valores[] = new int[10];
 
         for (int i = 0; i < valores.length; i++) {
 
